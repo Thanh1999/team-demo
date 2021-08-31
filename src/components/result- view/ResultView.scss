@@ -1,0 +1,21 @@
+.result{
+    width: 50%;
+    margin: 0 auto;
+    h2{
+        color: rgb(247, 73, 43);
+    }
+
+    span{
+        color: #8B4513;
+    }
+
+    .image{
+        display: flex;
+        justify-content: center;
+        img{
+            width: 50%;
+            align-self: center;
+        }
+    }
+
+}

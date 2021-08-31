@@ -1,6 +1,6 @@
 class Partner {
-    private name: String;
-    private image: String;
+    name: String;
+    image: String;
 
     constructor(name: String, image: String) {
         this.name = name;
